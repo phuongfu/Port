@@ -1803,8 +1803,8 @@
                     noiseTexture: "".concat(f, "/noise-stmpd.jpg"),
                     images: []
                 }, {
-                    title: "Book Design",
-                    slug: "Book Design",
+                    title: "Reconstruct",
+                    slug: "reconstruct",
                     type: "Graphic Design",
                     description: "",
                     link: {
